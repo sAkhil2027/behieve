@@ -2,5 +2,7 @@
 venv/
 __pycache__/
 *.pyc
-# git add .
-# git commit -m "Initial Europe chatbot"
+# 
+# git branch -M main
+
+# git push -u origin main
