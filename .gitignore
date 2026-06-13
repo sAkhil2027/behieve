@@ -1,8 +1,1 @@
-.env
-venv/
-__pycache__/
-*.pyc
-# 
-# git branch -M main
 
-# git push -u origin main
