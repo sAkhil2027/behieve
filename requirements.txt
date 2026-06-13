@@ -1,12 +1,9 @@
-# streamlit
-# openai
-# python-dotenv
-pip install streamlit
-pip install openai
-pip install python-dotenv
-pip install pypdf
-pip install langchain
-pip install langchain-community
-pip install langchain-text-splitters
-pip install sentence-transformers
-pip install faiss-cpu
+streamlit
+openai
+python-dotenv
+pypdf
+langchain
+langchain-community
+langchain-text-splitters
+sentence-transformers
+faiss-cpu
